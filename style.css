@@ -85,16 +85,6 @@ a {
 	background: url(basile_profile.jpg) no-repeat;
 }
 
-#credit {
-    margin-bottom: 20px;
-    font-size: 11px;
-    color: #999;
-    text-align: center;
-}
-#credit a {
-    color: #999;
-}
-
 p label {
     font-size: 110%;
     margin-right: 10px;
