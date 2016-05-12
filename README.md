@@ -1,5 +1,5 @@
-Curriculum Vitae
-================
-<p>This is the repository for my cv website.</p>
-<a href="http://www.basilehenry.com">www.basilehenry.com</a>
+# Curriculum Vitae
+
+This is the repository for my cv website.
+[cv.basilehenry.com](http://cv.basilehenry.com)
 
