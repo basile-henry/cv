@@ -58,7 +58,7 @@ a {
     margin: 25px auto 25px auto;
     overflow: hidden;
 
-    box-shadow: 0 0 6px #ccc;
+    /*box-shadow: 0 0 6px #ccc;*/
 }
 
 #title-holder {
