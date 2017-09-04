@@ -77,12 +77,25 @@ a {
 
 .circular-photo {
     float: right;
-	width: 200px;
-	height: 200px;
-	border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
-	background: url(basile_profile.jpg) no-repeat;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(basile_profile.jpg) no-repeat;
+}
+
+#download-pdf {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    width: 200px;
+}
+@media print {
+  img {
+    display: none !important;
+  }
 }
 
 p label {
